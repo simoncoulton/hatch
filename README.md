@@ -2,6 +2,14 @@
 
 Hatch is a small keyboard launcher for macOS. Launches apps, calculates, runs scripts. Native Swift, no dependencies.
 
+![The empty search panel](docs/1.png)
+
+![Searching for an app](docs/4.png)
+
+![Picking a type with `:`](docs/2.png)
+
+![Scripts type chip with the starter scripts](docs/3.png)
+
 ## Build and run
 
     scripts/bundle.sh          # release build -> build/Hatch.app
